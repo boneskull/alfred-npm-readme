@@ -1,6 +1,6 @@
 # alfred-npm-readme ([Download](https://raw.github.com/boneskull/alfred-npm-readme/master/Readme.alfredworkflow) v1.0)
 
-A simple [Alfred 2](http://www.alfredapp.com/) worfklow to open the `README.md` of any NPM module.
+A simple [Alfred 2](http://www.alfredapp.com/) workflow to open the `README.md` of any NPM module.
 
 ![screenshot](http://goo.gl/6y1vpL)
 
